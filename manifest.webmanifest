@@ -1,0 +1,1 @@
+{"name":"COPD Emergency App","short_name":"COPD Emergency","description":"Offline COPD emergency reference and personal details","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f4f2f8","theme_color":"#512c8b","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
